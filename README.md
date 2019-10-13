@@ -69,9 +69,13 @@ Load the notebooks into Jupyter
 
 ## Acknowledgments
 https://www.rsm.nl/mba/global-executive-onemba
+
 https://victorzhou.com/blog/intro-to-random-forests/
+
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+
 https://developers.google.com/places/web-service/search#find-place-examples
+
 https://developers.google.com/places/web-service/supported_types
 
 WARNING
